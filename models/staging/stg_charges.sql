@@ -1,7 +1,6 @@
 WITH raw_charges AS (
     SELECT * FROM {{ source('payments_recon', 'charges') }}
 )
-
     SELECT
         rc.charge_id,
         rc.invoice_id,

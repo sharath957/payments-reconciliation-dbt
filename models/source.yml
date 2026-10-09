@@ -11,3 +11,12 @@ sources:
 
     - name: invoices
       identifier: raw_invoices
+
+    - name: payout_items
+      identifier: raw_payout_items
+
+    - name: payouts
+      identifier: raw_payouts
+
+    - name: refunds
+      identifier: raw_refunds
