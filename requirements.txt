@@ -1,2 +1,2 @@
-uv pip freeze 
-grep -E '^dbt-(core|snowflake)=='
+dbt-core==1.12.5
+dbt-snowflake==1.12.1
