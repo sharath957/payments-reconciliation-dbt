@@ -1,0 +1,13 @@
+sources:
+ - name: payments_recon
+   schema: raw
+   tables:
+
+    - name: charges
+      identifier: raw_charges
+
+    - name: clinics
+      identifier: raw_clinics
+
+    - name: invoices
+      identifier: raw_invoices

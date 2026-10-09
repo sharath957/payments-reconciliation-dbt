@@ -1,0 +1,2 @@
+uv pip freeze 
+grep -E '^dbt-(core|snowflake)=='
