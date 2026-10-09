@@ -1,0 +1,29 @@
+# dbt
+target/
+dbt_packages/
+logs/
+
+# credentials
+profiles.yml
+.env
+*.p8
+*.pem
+*.key
+
+# python
+.venv/
+__pycache__/
+
+# answer key: score tests against it, don't commit it
+_answer_key/
+
+# Claude Code: personal instructions and local settings
+CLAUDE.md
+.claude/
+
+# dbt local artifacts
+.user.yml
+
+# editor / OS
+.vscode/
+.DS_Store

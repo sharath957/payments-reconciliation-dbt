@@ -1,0 +1,41 @@
+clinic_id,clinic_name,province,city,timezone,plan_tier,joined_at
+cl_001,Riverside Physiotherapy,BC,Burnaby,America/Vancouver,starter,2020-12-04 23:05:00
+cl_002,Northshore Massage Therapy,BC,Surrey,America/Vancouver,growth,2019-09-07 23:26:00
+cl_003,Harbourview Chiropractic,BC,Victoria,America/Vancouver,starter,2020-04-25 20:06:00
+cl_004,Pinecrest Health Collective,BC,Vancouver,America/Vancouver,growth,2023-02-13 16:35:00
+cl_005,Pinecrest Massage Therapy,BC,Vancouver,America/Vancouver,starter,2020-05-03 18:55:00
+cl_006,Pinecrest Chiropractic,BC,Burnaby,America/Vancouver,starter,2024-05-23 16:38:00
+cl_007,Westpoint Chiropractic,BC,Victoria,America/Vancouver,starter,2024-12-18 18:43:00
+cl_008,Cedar Massage Therapy,BC,Vancouver,America/Vancouver,growth,2022-05-03 18:58:00
+cl_009,Bayside Massage Therapy,BC,Victoria,America/Vancouver,starter,2024-08-05 19:08:00
+cl_010,Kinetic Sports Medicine,BC,Kelowna,America/Vancouver,starter,2020-03-17 22:05:00
+cl_011,Summit Chiropractic,BC,Victoria,America/Vancouver,growth,2022-07-20 22:33:00
+cl_012,Harbourview Wellness,BC,Kelowna,America/Vancouver,growth,2025-11-11 16:18:00
+cl_013,Kinetic Chiropractic,AB,Red Deer,America/Edmonton,enterprise,2025-11-10 23:38:00
+cl_014,Maple Physiotherapy,AB,Red Deer,America/Edmonton,starter,2019-02-12 19:15:00
+cl_015,Northshore Wellness,AB,Red Deer,America/Edmonton,starter,2019-09-25 17:08:00
+cl_016,Maple Health Collective,AB,Red Deer,America/Edmonton,growth,2022-04-18 18:45:00
+cl_017,Pinecrest Integrated Health,AB,Red Deer,America/Edmonton,starter,2020-04-03 20:01:00
+cl_018,Westpoint Physiotherapy,AB,Calgary,America/Edmonton,growth,2019-04-03 15:55:00
+cl_019,Kinetic Integrated Health,AB,Calgary,America/Edmonton,growth,2024-10-19 22:15:00
+cl_020,Lakeside Wellness,SK,Saskatoon,America/Regina,growth,2021-07-14 22:55:00
+cl_021,Granite Rehab,SK,Saskatoon,America/Regina,starter,2020-09-15 17:27:00
+cl_022,Northshore Integrated Health,MB,Winnipeg,America/Winnipeg,starter,2023-01-03 18:10:00
+cl_023,Granite Physiotherapy,MB,Winnipeg,America/Winnipeg,starter,2022-05-26 22:18:00
+cl_024,Willow Integrated Health,ON,Ottawa,America/Toronto,starter,2020-01-19 23:03:00
+cl_025,Ironwood Integrated Health,ON,Waterloo,America/Toronto,enterprise,2023-03-02 23:05:00
+cl_026,Granite Wellness,ON,Waterloo,America/Toronto,starter,2023-01-20 16:26:00
+cl_027,Bayside Health Collective,ON,Ottawa,America/Toronto,growth,2021-04-09 21:08:00
+cl_028,Bayside Wellness,ON,Toronto,America/Toronto,starter,2023-02-03 23:13:00
+cl_029,Pinecrest Wellness,ON,Ottawa,America/Toronto,starter,2020-08-27 23:45:00
+cl_030,Aspen Physiotherapy,ON,Waterloo,America/Toronto,starter,2024-02-05 19:07:00
+cl_031,Summit Health Collective,ON,Hamilton,America/Toronto,growth,2024-06-07 19:32:00
+cl_032,Cedar Wellness,ON,London,America/Toronto,growth,2019-01-11 17:40:00
+cl_033,Coastal Sports Medicine,ON,Waterloo,America/Toronto,starter,2019-12-05 23:02:00
+cl_034,Summit Sports Medicine,ON,Ottawa,America/Toronto,starter,2021-01-12 18:43:00
+cl_035,Willow Sports Medicine,QC,Montreal,America/Toronto,enterprise,2020-03-26 17:56:00
+cl_036,Bayside Sports Medicine,QC,Montreal,America/Toronto,starter,2025-12-04 21:55:00
+cl_037,Lakeside Integrated Health,QC,Quebec City,America/Toronto,starter,2025-04-08 15:42:00
+cl_038,Northshore Health Collective,NS,Halifax,America/Halifax,growth,2022-11-27 23:21:00
+cl_039,Ironwood Health Collective,NS,Halifax,America/Halifax,starter,2022-06-24 20:27:00
+cl_040,Granite Massage Therapy,NL,St. John's,America/St_Johns,starter,2022-01-17 23:43:00
