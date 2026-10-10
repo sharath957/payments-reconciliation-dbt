@@ -1,0 +1,48 @@
+models:
+
+    - name: stg_charges
+      columns:
+        - name: charge_id
+          tests:
+            - not_null
+            - unique
+
+        - name: amount 
+          tests:
+            - not_null
+
+        - name: processor_fee
+          tests:
+            - not_null
+    
+    - name: stg_clinics
+      columns:
+        - name: clinic_id
+          tests:
+            - not_null
+            - unique
+
+        - name: clinic_name 
+          tests:
+            - not_null
+            - unique
+
+        - name: plan_tier
+          tests:
+            - accepted_values:
+                values: ['starter', 'growth', 'enterprise']
+
+    - name: stg_invoices
+      columns:
+        - name: invoice_id
+          tests:
+            - not_null
+            - unique
+
+        - name: amount 
+          tests:
+            - not_null
+
+        - name: issued_at
+          tests:
+            - not_null
