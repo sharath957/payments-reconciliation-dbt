@@ -46,3 +46,21 @@ models:
         - name: issued_at
           tests:
             - not_null
+    - name: int_charges_w_invoice
+      columns:
+        - name: charge_id
+          tests:
+            - not_null
+            - unique    
+
+        - name: charge_amount 
+          tests:
+            - not_null
+        - name: invoice_id
+          tests:
+            - not_null
+        - name: charge_invoice_id
+          tests:
+            - relationships:
+                to: ref('stg_invoices')
+                field: invoice_id
